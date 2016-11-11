@@ -1,7 +1,7 @@
 import math
 
 def area():
-    intro = raw_input("Select to determine the area of your shape: \n (1) Sqaure \n (2) Rectangle \n (3) Circle \n >>  ")
+    intro = raw_input("Select to determine the area of your shape: \n (1) Square \n (2) Rectangle \n (3) Circle \n >>  ")
     print intro
 
     if  intro == "1":

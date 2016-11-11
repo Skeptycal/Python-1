@@ -2,7 +2,7 @@ import math
 
 def quad():
 
-    print "This calculates a quadratic using the quadratic formula"
+    print "This calculates a the zeros of a quadratic using the quadratic formula"
     a = float(input("A = "))
     b = float(input("B = "))
     c = float(input("C = "))

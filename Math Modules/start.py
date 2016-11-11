@@ -17,3 +17,5 @@ if prompt.lower() == "calculator":
     import calculator
 if prompt.lower() == "average":
     import report
+if prompt.lower() == "grapher" or prompt.lower() == "graph":
+    import grapher

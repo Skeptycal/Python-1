@@ -1,9 +1,0 @@
-This is a list of all the available functions...
-
-(1) quadratic
-
-(2) area
-
-(3) calculator
-      -- This is for add, subtract, mutiply, divide, and to use exponents
-(4) average
