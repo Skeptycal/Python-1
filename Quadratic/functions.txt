@@ -1,0 +1,11 @@
+This is a list of all the available functions...
+
+(1) Quadratic
+
+(2) Area
+
+(3) Calculator
+      -- This is for adding, subtracting, multiplying, dividing, and to use exponents
+(4) Average
+
+(5) Grapher
